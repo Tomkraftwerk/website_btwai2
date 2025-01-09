@@ -3,7 +3,7 @@ import { ExternalLink } from 'lucide-react';
 const resources = [
   {
     title: "Wahlprogramme der Parteien",
-    url: "https://www.bundestagswahl-2025.de/wahlprogramme",
+    url: "https://www.bundestagswahl-bw.de/bundestagswahl-wahlprogramme",
     description: "Offizielle Wahlprogramme aller Parteien zur Bundestagswahl"
   },
   {
