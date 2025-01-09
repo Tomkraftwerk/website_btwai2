@@ -49,7 +49,7 @@ export default function Team() {
                  className="text-gray-600 hover:text-pink-600 transition-colors">
                 <Instagram size={24} />
               </a>
-              <a href="mailto:hallo@bundestagswahl.ai"
+              <a href="mailto:mamundhenke@gmail.com"
                  className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Mail size={24} />
               </a>
