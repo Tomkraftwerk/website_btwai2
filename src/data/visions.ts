@@ -90,6 +90,47 @@ export const visions: Vision[] = [
       }
     ]
   },
+    {
+    party: 'LINKE',
+    imageUrl: 'https://i.ibb.co/kByz2pX/linke.webp',
+    description: 'Dieses Bild zeigt eine inklusive und sozial gerechte Stadt, inspiriert von der Vision der Linken für 2025. Bezahlbare Wohnkomplexe sind umgeben von grünen Gemeinschaftsgärten und weitläufigen öffentlichen Räumen. Märkte, kulturelle Veranstaltungen und Treffpunkte betonen die Bedeutung von Gemeinschaft und Solidarität. Ein barrierefreies und nachhaltiges Mobilitätssystem mit elektrischen Straßenbahnen, Bussen und Fahrradwegen verbindet die Stadtteile. Windkraftanlagen und Solarpanels stehen für eine soziale Klimapolitik, die ökologische Verantwortung mit sozialer Gerechtigkeit vereint. Diese Vision vereint Gleichheit, Gemeinschaft und nachhaltigen Fortschritt in einer menschenzentrierten, lebenswerten Stadt.',
+    challenges: [
+      {
+        category: 'Demokratie und Mitbestimmung',
+        points: [
+          'Einführung von Referenden auf Bundesebene: Direkte Mitbestimmung durch Volksentscheide und Vetos gegen parlamentarische Entscheidungen ist konzeptionell und abstrakt.',
+          'Absenkung des Wahlalters auf 16 Jahre: Ein strukturelles Ziel ohne physische Darstellungsmöglichkeit.'
+        ]
+      },
+      {
+        category: 'Sozialpolitik',
+        points: [
+          'Sozial gestaffelte Energiepreise: Einführung von Sockeltarifen für Strom und Heizung, die nach Verbrauch steigen, ist ein finanztechnisches Modell, nicht visuell.',
+          'Energie-Soli für Reiche: Zuschlag auf Einkommens- und Kapitalertragssteuer als vorübergehende Maßnahme ist eine finanzpolitische Idee.'
+        ]
+      },
+      {
+        category: 'Wirtschaft und Regulierung',
+        points: [
+          'Kartellrecht im Lebensmittelhandel: Maßnahmen gegen Monopole und Einführung von Mindesterzeugerpreisen bleiben juristische und wirtschaftliche Konzepte.',
+          'Deckelung von Dispozinsen: Zinssätze für Überziehungskredite begrenzen ist ein regulatorisches Ziel und schwer darstellbar.'
+        ]
+      },
+      {
+        category: 'Internationale Solidarität',
+        points: [
+          'Schuldenschnitt für den globalen Süden: Einführung eines Staateninsolvenzverfahrens und nachhaltige Entschuldungsinitiativen für hochverschuldete Länder sind eher politisch-strategische Ziele.',
+        ]
+      },
+      {
+        category: 'Gesundheit und Bildung',
+        points: [
+          'Kommunale Versorgungszentren: Ein Konzept für integrierte Gesundheitsversorgung ist schwer darzustellen.',
+          'Tarifverträge für studentische Beschäftigte: Förderung von Arbeitsrechten bleibt abstrakt und nicht physisch darstellbar.'
+        ]
+      }
+    ]
+  },
   {
     party: 'SPD',
     imageUrl: 'https://i.ibb.co/SVq6CK2/SPD.webp',
