@@ -34,7 +34,7 @@ export default function Exhibition() {
         <p className="font-medium">
         Du möchtest die Bilder ausstellen und Menschen zusammenbringen, um über die Zukunft zu sprechen? Schreib mir gern eine{' '}
           <a 
-            href="mailto:hallo@bundestagswahl.ai"
+            href="mailto:mamundhenke@gmail.com"
             className="text-blue-600 hover:text-blue-800"
           >
             E-Mail
