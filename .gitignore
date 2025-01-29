@@ -1,0 +1,5 @@
+# Node modules & IDE files
+node_modules/
+.vs/
+dist/
+.DS_Store

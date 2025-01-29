@@ -3,6 +3,9 @@ import About from '../components/sections/About/index';
 import FAQ from '../components/sections/FAQ';
 import Team from '../components/sections/Team';
 import Info from '../components/sections/Info';
+import Events from '../components/sections/Events';
+
+
 
 export default function Home() {
   return (
@@ -11,6 +14,7 @@ export default function Home() {
         <VisionGrid />
       </section>
       <About />
+      <Events />
       <FAQ />
       <Team />
       <Info />
