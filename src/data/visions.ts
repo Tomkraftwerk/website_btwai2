@@ -259,39 +259,33 @@ export const visions: Vision[] = [
     description: 'Dieses Bild zeigt eine moderne Stadt, inspiriert von der Vision der BSW (Bündnis Sahra Wagenknecht) für Deutschland. Im Zentrum steht eine pragmatische Energiepolitik: Saubere Gaskraftwerke und Biogasanlagen sind sichtbar in die Stadt integriert und symbolisieren eine nachhaltige, bezahlbare Energieversorgung. Die Stadt vereint funktionale Wohnkonzepte wie moderne Wohnkomplexe mit grünen Dächern und Eigenheime mit Gärten, die ein familienfreundliches und individuelles Leben ermöglichen. Ein Kran im Stadtbild deutet auf die aktive Entwicklung und den Ausbau von bezahlbarem Wohnraum sowie die kontinuierliche Modernisierung der Infrastruktur hin. Öffentliche Einrichtungen wie barrierefreie Kliniken und Schulen spiegeln die Priorität der BSW auf soziale Gerechtigkeit und Zugänglichkeit wider. Dieses Bild zeigt eine zukunftsfähige Stadt, die soziale Balance, Nachhaltigkeit und Pragmatismus vereint.',
     challenges: [
       {
-        category: 'Demokratie und Mitbestimmung',
+        category: 'Wirtschaft und Energiepolitik',
         points: [
-          'Einführung von Referenden auf Bundesebene: Direkte Mitbestimmung durch Volksentscheide und Vetos gegen parlamentarische Entscheidungen ist konzeptionell und abstrakt.',
-          'Absenkung des Wahlalters auf 16 Jahre: Ein strukturelles Ziel ohne physische Darstellungsmöglichkeit.'
+          'Abschaffung der CO₂-Preise und Netzentgelte: Eine regulatorische Maßnahme, die nicht physisch sichtbar ist.',
+          'Verstaatlichung der Energienetze: Politisches Konzept ohne direkte visuelle Umsetzung.',
+          'Technologieoffene Förderung: Förderung von Kernfusion und neuen Energietechnologien ist abstrakt.'
         ]
       },
       {
-        category: 'Sozialpolitik',
+        category: 'Sozial- und Wohnungspolitik',
         points: [
-          'Sozial gestaffelte Energiepreise: Einführung von Sockeltarifen für Strom und Heizung, die nach Verbrauch steigen, ist ein finanztechnisches Modell, nicht visuell.',
-          'Energie-Soli für Reiche: Zuschlag auf Einkommens- und Kapitalertragssteuer als vorübergehende Maßnahme ist eine finanzpolitische Idee.'
+          'Mietendeckel und Schutz vor Immobilienspekulation: Finanzpolitische Maßnahmen ohne visuelles Element.',
         ]
       },
       {
-        category: 'Wirtschaft und Regulierung',
+        category: 'Bildung und Gesundheitsversorgung',
         points: [
-          'Kartellrecht im Lebensmittelhandel: Maßnahmen gegen Monopole und Einführung von Mindesterzeugerpreisen bleiben juristische und wirtschaftliche Konzepte.',
-          'Deckelung von Dispozinsen: Zinssätze für Überziehungskredite begrenzen ist ein regulatorisches Ziel und schwer darstellbar.'
+          'Pflegevollversicherung und Bürgerversicherung: Verwaltungstechnische Reformen, die nicht greifbar sind.',
+          'Einheitliche Bildungsstandards: Eine strukturelle Änderung ohne physische Darstellungsmöglichkeit.'
         ]
       },
       {
-        category: 'Internationale Solidarität',
+        category: 'Asyl- und Migrationspolitik',
         points: [
-          'Schuldenschnitt für den globalen Süden: Einführung eines Staateninsolvenzverfahrens und nachhaltige Entschuldungsinitiativen für hochverschuldete Länder sind eher politisch-strategische Ziele.'
+          'Regulierung der Migration und stärkere Kontrolle: Verwaltungsprozesse, die abstrakt bleiben.',
+          'Verlagerung von Asylverfahren in Drittstaaten: Ein politischer Vorschlag ohne direkt darstellbares Stadtbild.'
         ]
       },
-      {
-        category: 'Gesundheit und Bildung',
-        points: [
-          'Kommunale Versorgungszentren: Ein Konzept für integrierte Gesundheitsversorgung ist schwer darzustellen.',
-          'Tarifverträge für studentische Beschäftigte: Förderung von Arbeitsrechten bleibt abstrakt und nicht physisch darstellbar.'
-        ]
-      }
     ]
   },
   {

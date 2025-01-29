@@ -1,4 +1,3 @@
-import React from 'react';
 import { MessageSquare, Share2, Info } from 'lucide-react';
 
 export default function Hero() {
