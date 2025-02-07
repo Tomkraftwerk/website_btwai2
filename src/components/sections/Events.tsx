@@ -1,6 +1,6 @@
 const events = [
   {
-    title: "Tübingen – Westspitze",
+    title: "Tübingen – Innovationszentrum Westspitze",
     date: "5. Februar 2025",
     link: "https://www.coworkgroup.de/events/ki-und-wir"
   },
@@ -15,10 +15,14 @@ const events = [
     link: "https://www.basecamp.digital/event/basecamp-fishbowl-hey-ai-wen-soll-ich-waehlen/"
   },
   {
-    title: "Zwickau – Gasometer",
+    title: "Zwickau – Alter Gasometer",
     date: "12. Februar 2025",
-    link: "",
-    info: "Infos folgen..."
+    link: "https://www.alter-gasometer.de/veranstaltung/ki-trifft-politik-ausstellung-und-diskussion/",
+  },
+    {
+    title: "Bernau – Galerie Bernau",
+    date: "15. Februar 2025",
+    link: "https://www.bernau.de/de/rathaus-service/aktuelles/stadtnachrichten/artikel-ki-ausstellung-zur-bundestagswahl-wahlprogramme-in-bildern.html",
   },
 ];
 
