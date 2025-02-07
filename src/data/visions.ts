@@ -53,7 +53,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'Alternative für Deutschland',
-    imageUrl: 'https://i.ibb.co/z5YhfZD/afd.webp',
+    imageUrl: '/images/afd.png',
     description: 'Dieses Bild zeigt eine futuristische Stadt, inspiriert vom Wahlprogramm der AfD. Traditionelle Energiequellen wie Kohlekraftwerke, moderne Gaskraftwerke und Kernkraftanlagen dominieren das Stadtbild, symbolisieren Versorgungssicherheit und Unabhängigkeit. Breite Autobahnen mit Verbrennungsmotorfahrzeugen und moderne Tankstellen verdeutlichen die Priorität des motorisierten Individualverkehrs. Grenzkontrollen mit Barrieren, Kameras und Sicherheitskräften repräsentieren nationale Souveränität und Sicherheit. Urbane Hochhäuser stehen neben familienfreundlichen Wohnvierteln mit Einfamilienhäusern und Gärten, die Tradition und Ordnung betonen. Deutsche Flaggen setzen ein klares Zeichen für nationale Identität und Pragmatismus. Dieses Bild veranschaulicht die Vision der AfD für eine geordnete, traditionelle und souveräne Zukunft.',
     challenges: [
       {
@@ -173,7 +173,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'CDU/CSU',
-    imageUrl: '/images/union',
+    imageUrl: '/images/union.png',
     description: 'Dieses Bild zeigt eine starke, innovative Stadt, die die Vision der Union (CDU/CSU) für Deutschland verkörpert. Breite Autobahnen, moderne Schienennetze und Ladestationen für Elektroautos stehen für eine fortschrittliche und pragmatische Mobilität. Eine ausgewogene Energieversorgung, die Kernkraft, Wind- und Solaranlagen kombiniert, symbolisiert Versorgungssicherheit und Nachhaltigkeit. Familienfreundliche Viertel mit bezahlbarem Wohnraum, Grünflächen, Schulen und Kitas stehen für den sozialen Zusammenhalt. Märkte und Gewerbezonen unterstreichen die Stärke der sozialen Marktwirtschaft. Traditionelle und moderne Architektur verbinden kulturelles Erbe mit Innovation. Ordnung und Sicherheit prägen die öffentlichen Räume. Diese Vision vereint wirtschaftliche Stärke, Fortschritt und gesellschaftliche Stabilität.',
     challenges: [
       {
