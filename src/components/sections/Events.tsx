@@ -16,7 +16,7 @@ const events = [
   },
   {
     title: "Zwickau – Alter Gasometer",
-    date: "12. Februar 2025",
+    date: "11. Februar 2025",
     link: "https://www.alter-gasometer.de/veranstaltung/ki-trifft-politik-ausstellung-und-diskussion/",
   },
     {
