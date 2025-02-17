@@ -11,7 +11,7 @@ export interface Vision {
 export const visions: Vision[] = [
   {
     party: 'BÜNDNIS 90/DIE GRÜNEN',
-    imageUrl: '/_ipx/w_600/images/gruene.png',
+    imageUrl: '/images/gruene.png',
     description: 'Dieses Bild zeigt eine nachhaltige Stadt der Zukunft, inspiriert von der ökologischen und sozialen Vision von Bündnis 90/Die Grünen. Im Mittelpunkt stehen Gebäude mit bepflanzten Fassaden und Solarpaneelen, die Natur und Architektur harmonisch verbinden. Urbane Gärten und Gemeinschaftsflächen fördern die Eigenversorgung und stärken das Miteinander der Bewohnerinnen und Bewohner. Am Stadtrand erzeugen Windturbinen und Solarfelder saubere Energie, während im Stadtzentrum emissionsfreie Verkehrsmittel wie Fahrräder, elektrische Busse und Straßenbahnen eine umweltfreundliche Mobilität gewährleisten. Grüne Parks und Wasserwege schaffen Oasen der Ruhe und laden zu Erholung und Austausch ein. Die Menschen nutzen nachhaltige Technologien, engagieren sich in Recycling-Initiativen und genießen kulturelle Veranstaltungen in offenen, barrierefreien Räumen. Diese Stadt verkörpert die Grundwerte der Grünen: Klimaschutz, soziale Gerechtigkeit und Innovation, getragen von einer Vision, in der Fortschritt und Umwelt in Einklang stehen.',
     challenges: [
       {
