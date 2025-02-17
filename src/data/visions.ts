@@ -11,7 +11,7 @@ export interface Vision {
 export const visions: Vision[] = [
   {
     party: 'BÜNDNIS 90/DIE GRÜNEN',
-    imageUrl: '/images/gruene.png',
+    imageUrl: '/images/gruene.webp',
     description: 'Dieses Bild zeigt eine nachhaltige Stadt der Zukunft, inspiriert von der ökologischen und sozialen Vision von Bündnis 90/Die Grünen. Im Mittelpunkt stehen Gebäude mit bepflanzten Fassaden und Solarpaneelen, die Natur und Architektur harmonisch verbinden. Urbane Gärten und Gemeinschaftsflächen fördern die Eigenversorgung und stärken das Miteinander der Bewohnerinnen und Bewohner. Am Stadtrand erzeugen Windturbinen und Solarfelder saubere Energie, während im Stadtzentrum emissionsfreie Verkehrsmittel wie Fahrräder, elektrische Busse und Straßenbahnen eine umweltfreundliche Mobilität gewährleisten. Grüne Parks und Wasserwege schaffen Oasen der Ruhe und laden zu Erholung und Austausch ein. Die Menschen nutzen nachhaltige Technologien, engagieren sich in Recycling-Initiativen und genießen kulturelle Veranstaltungen in offenen, barrierefreien Räumen. Diese Stadt verkörpert die Grundwerte der Grünen: Klimaschutz, soziale Gerechtigkeit und Innovation, getragen von einer Vision, in der Fortschritt und Umwelt in Einklang stehen.',
     challenges: [
       {
@@ -53,7 +53,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'Alternative für Deutschland',
-    imageUrl: '/images/afd.png',
+    imageUrl: '/images/afd.webp',
     description: 'Dieses Bild zeigt eine futuristische Stadt, inspiriert vom Wahlprogramm der AfD. Traditionelle Energiequellen wie Kohlekraftwerke, moderne Gaskraftwerke und Kernkraftanlagen dominieren das Stadtbild, symbolisieren Versorgungssicherheit und Unabhängigkeit. Breite Autobahnen mit Verbrennungsmotorfahrzeugen und moderne Tankstellen verdeutlichen die Priorität des motorisierten Individualverkehrs. Grenzkontrollen mit Barrieren, Kameras und Sicherheitskräften repräsentieren nationale Souveränität und Sicherheit. Urbane Hochhäuser stehen neben familienfreundlichen Wohnvierteln mit Einfamilienhäusern und Gärten, die Tradition und Ordnung betonen. Deutsche Flaggen setzen ein klares Zeichen für nationale Identität und Pragmatismus. Dieses Bild veranschaulicht die Vision der AfD für eine geordnete, traditionelle und souveräne Zukunft.',
     challenges: [
       {
@@ -92,7 +92,7 @@ export const visions: Vision[] = [
   },
     {
     party: 'LINKE',
-    imageUrl: '/images/linke.png',
+    imageUrl: '/images/linke.webp',
     description: 'Dieses Bild zeigt eine inklusive und sozial gerechte Stadt, inspiriert von der Vision der Linken. Bezahlbare Wohnkomplexe sind umgeben von grünen Gemeinschaftsgärten und weitläufigen öffentlichen Räumen. Märkte, kulturelle Veranstaltungen und Treffpunkte betonen die Bedeutung von Gemeinschaft und Solidarität. Ein barrierefreies und nachhaltiges Mobilitätssystem mit elektrischen Straßenbahnen, Bussen und Fahrradwegen verbindet die Stadtteile. Windkraftanlagen und Solarpanels stehen für eine soziale Klimapolitik, die ökologische Verantwortung mit sozialer Gerechtigkeit vereint. Diese Vision vereint Gleichheit, Gemeinschaft und nachhaltigen Fortschritt in einer menschenzentrierten, lebenswerten Stadt.',
     challenges: [
       {
@@ -133,7 +133,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'SPD',
-    imageUrl: '/images/spd.png',
+    imageUrl: '/images/spd.webp',
     description: 'Dieses Bild zeigt eine zukunftsorientierte Stadt, die die Vision der SPD für soziale Gerechtigkeit, wirtschaftlichen Fortschritt und ökologische Verantwortung widerspiegelt. Im Mittelpunkt stehen bezahlbare, moderne Wohngebäude, die allen Bürgerinnen und Bürgern ein sicheres Zuhause bieten. Weitläufige Grünflächen und Parks schaffen Erholungsräume und fördern den gesellschaftlichen Zusammenhalt. Zuverlässige öffentliche Verkehrsmittel wie Straßenbahnen und elektrische Busse verbinden die Stadtteile, während Windturbinen und Solarpaneele eine saubere und klimafreundliche Energieversorgung gewährleisten. Schulen, Krankenhäuser und Gemeinschaftszentren stehen für die starke öffentliche Daseinsvorsorge, die im Mittelpunkt der Politik der SPD steht. Menschen engagieren sich in kulturellen Veranstaltungen, nutzen öffentliche Räume für gemeinschaftliche Aktivitäten und genießen den Zugang zu hochwertigen öffentlichen Dienstleistungen. Dieses Bild verkörpert die Grundwerte der SPD: soziale Sicherheit, Chancengleichheit und Fortschritt für alle, getragen von einem starken und gerechten Sozialstaat.',
     challenges: [
       {
@@ -173,7 +173,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'CDU/CSU',
-    imageUrl: '/images/union.png',
+    imageUrl: '/images/union.webp',
     description: 'Dieses Bild zeigt eine starke, innovative Stadt, die die Vision der Union (CDU/CSU) für Deutschland verkörpert. Breite Autobahnen, moderne Schienennetze und Ladestationen für Elektroautos stehen für eine fortschrittliche und pragmatische Mobilität. Eine ausgewogene Energieversorgung, die Kernkraft, Wind- und Solaranlagen kombiniert, symbolisiert Versorgungssicherheit und Nachhaltigkeit. Familienfreundliche Viertel mit bezahlbarem Wohnraum, Grünflächen, Schulen und Kitas stehen für den sozialen Zusammenhalt. Märkte und Gewerbezonen unterstreichen die Stärke der sozialen Marktwirtschaft. Traditionelle und moderne Architektur verbinden kulturelles Erbe mit Innovation. Ordnung und Sicherheit prägen die öffentlichen Räume. Diese Vision vereint wirtschaftliche Stärke, Fortschritt und gesellschaftliche Stabilität.',
     challenges: [
       {
@@ -215,7 +215,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'FDP',
-    imageUrl: '/images/fdp.png',
+    imageUrl: '/images/fdp.webp',
     description: 'Dieses Bild zeigt eine fortschrittliche, innovative Stadt, die die Vision der FDP für Deutschland verkörpert. Eine lebendige Innovationszone mit modernen Glasgebäuden, Start-up-Hubs und Märkten spiegelt wirtschaftliche Dynamik wider. Fortschrittliche Mobilität wird durch autonome Busse, E-Bikes und Ladestationen für Elektrofahrzeuge dargestellt. Die Stadt ist digital vernetzt, mit sichtbarer 5G-Infrastruktur und Smart-City-Technologien, die das Leben vereinfachen. Nachhaltigkeit zeigt sich in urbanen Gärten, begrünten Dächern und Gebäuden mit integrierten Solaranlagen. Dieses Bild vereint die Kernelemente der FDP-Politik: Freiheit, wirtschaftliche Innovation und technologische Exzellenz in einer zukunftsorientierten, lebenswerten Stadt.',
     challenges: [
       {
@@ -255,7 +255,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'Bündnis Sahra Wagenknecht',
-    imageUrl: '/images/bsw.png',
+    imageUrl: '/images/bsw.webp',
     description: 'Dieses Bild zeigt eine moderne Stadt, inspiriert von der Vision der BSW (Bündnis Sahra Wagenknecht) für Deutschland. Im Zentrum steht eine pragmatische Energiepolitik: Saubere Gaskraftwerke und Biogasanlagen sind sichtbar in die Stadt integriert und symbolisieren eine nachhaltige, bezahlbare Energieversorgung. Die Stadt vereint funktionale Wohnkonzepte wie moderne Wohnkomplexe mit grünen Dächern und Eigenheime mit Gärten, die ein familienfreundliches und individuelles Leben ermöglichen. Ein Kran im Stadtbild deutet auf die aktive Entwicklung und den Ausbau von bezahlbarem Wohnraum sowie die kontinuierliche Modernisierung der Infrastruktur hin. Öffentliche Einrichtungen wie barrierefreie Kliniken und Schulen spiegeln die Priorität der BSW auf soziale Gerechtigkeit und Zugänglichkeit wider. Dieses Bild zeigt eine zukunftsfähige Stadt, die soziale Balance, Nachhaltigkeit und Pragmatismus vereint.',
     challenges: [
       {
@@ -290,7 +290,7 @@ export const visions: Vision[] = [
   },
   {
     party: 'Volt',
-    imageUrl: '/images/volt.png',
+    imageUrl: '/images/volt.webp',
     description: 'Dieses Bild zeigt eine moderne, europäisch geprägte Stadt der Zukunft, die Volts Vision einer vernetzten und nachhaltigen Gesellschaft widerspiegelt. Innovative Mobilitätskonzepte wie autonome Fahrzeuge und ein ausgebautes öffentliches Verkehrsnetz verbinden die Stadtteile. Moderne Architektur mit integrierten Solarpanelen und begrünten Fassaden symbolisiert die Verbindung von Technologie und Nachhaltigkeit. Digitale Infrastruktur und Smart-City-Lösungen prägen das Stadtbild, während öffentliche Plätze und Kultureinrichtungen den europäischen Gemeinschaftsgedanken betonen. Die Stadt verkörpert Volts Kernwerte: europäische Integration, digitale Innovation und nachhaltige Entwicklung.',
     challenges: [
       {
